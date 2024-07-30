@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Leonardo 👋
 
-<!--
-**leopipoli/leopipoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Sou um(a) Desenvolvedor de Sistemas apaixonado(a) por Tecnologia. Aqui você encontrará alguns dos meus projetos mais recentes e contribuições.
 
-Here are some ideas to get you started:
+## 🚀 Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Notifications Hub API](https://github.com/leopipoli/notificationsHub_API)**: Swagger API em DDD para o cadastro para envio de notificações (SMS, E-mail e Web). [Leia mais](https://github.com/leopipoli/notificationsHub_API/blob/master/README.md).
+- **[Notifications Hub Frontend](https://github.com/leopipoli/notificationsHub_Angular)**: Frontend de cadastro de notificações, consome o NotificationsHub API. [Leia mais](https://github.com/leopipoli/notificationsHub_Angular).
+
+## 🛠️ Tecnologias
+
+- **Linguagens**: C#, TypeScript, VB, SQL
+- **Frameworks**: Angular, ASP.NET, Entity Framework
+- **Ferramentas**: Docker, Git, Kubernetes, Azure, AWS, Raven Db
+
+## 📫 Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/leonardo-da-silva-pipoli-172b6a171/)
