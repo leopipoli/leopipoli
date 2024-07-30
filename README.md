@@ -1,17 +1,19 @@
-# Olá, eu sou Leonardo 👋
+# Olá, 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou um(a) Desenvolvedor de Sistemas apaixonado(a) por Tecnologia. Aqui você encontrará alguns dos meus projetos mais recentes e contribuições.
+Bem-vindo ao meu perfil do GitHub! 
+<br> Sou um Desenvolvedor de Sistemas, especialista em Arquitetura de Software e apaixonado por tecnologia.
+<br> Fique à vontade para explorar minhas contribuições, navegar pelo meu perfil e fazer sugestões.
 
 ## 🚀 Projetos
 
-- **[Notifications Hub API](https://github.com/leopipoli/notificationsHub_API)**: Swagger API em DDD para o cadastro para envio de notificações (SMS, E-mail e Web). [Leia mais](https://github.com/leopipoli/notificationsHub_API/blob/master/README.md).
-- **[Notifications Hub Frontend](https://github.com/leopipoli/notificationsHub_Angular)**: Frontend de cadastro de notificações, consome o NotificationsHub API. [Leia mais](https://github.com/leopipoli/notificationsHub_Angular).
+- **[Notifications Hub API](https://github.com/leopipoli/notificationsHub_API)**: API desenvolvida com Swagger e DDD para o cadastro e envio de notificações (SMS, E-mail e Web). [Leia mais](https://github.com/leopipoli/notificationsHub_API/blob/master/README.md).
+- **[Notifications Hub Frontend](https://github.com/leopipoli/notificationsHub_Angular)**: Frontend para o cadastro de notificações, que consome a API Notifications Hub. [Leia mais](https://github.com/leopipoli/notificationsHub_Angular).
 
 ## 🛠️ Tecnologias
 
 - **Linguagens**: C#, TypeScript, VB, SQL
 - **Frameworks**: Angular, ASP.NET, Entity Framework
-- **Ferramentas**: Docker, Git, Kubernetes, Azure, AWS, Raven Db
+- **Ferramentas**: Docker, Git, Kubernetes, Azure, AWS, RavenDB
 
 ## 📫 Como me encontrar
 
