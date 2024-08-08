@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil do GitHub!
 
 - **Linguagens**: C#, TypeScript, VB, SQL, Dart
 - **Frameworks**: Angular, ASP.NET Core, Entity Framework, .NET Core
-- **Ferramentas**: Docker, Git, Kubernetes, Azure, AWS, RavenDB, Visual Studio, VSCode, SSMS
+- **Ferramentas**: Docker, Git, Kubernetes, Azure, AWS, RavenDB, Visual Studio, VSCode, SSMS, Postman
 
 ## 📫 Como me encontrar
 
