@@ -1,7 +1,7 @@
 # Olá, 👋
 
 Bem-vindo ao meu perfil do GitHub! 
-<br> Sou Analista de Sistemas, especialista em Arquitetura de Software, Gstão de Projetos e apaixonado por tecnologia.
+<br> Sou Analista de Sistemas, especialista em Arquitetura de Software, Gestão de Projetos e apaixonado por tecnologia.
 <br> Fique à vontade para explorar minhas contribuições, navegar pelo meu perfil e fazer sugestões.
 
 ## 🚀 Projetos
