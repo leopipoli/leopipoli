@@ -14,7 +14,7 @@ Bem-vindo ao meu perfil do GitHub!
 
 ## 🛠️ Tecnologias
 
-- **Linguagens**: C#, TypeScript, VB, SQL, Dart
+- **Linguagens**: C#, TypeScript, VB .NET, SQL, Dart, JavaScript
 - **Frameworks**: Angular, ASP.NET Core, Entity Framework, .NET Core
 - **Ferramentas**: Docker, Git, Kubernetes, Azure, AWS, RavenDB, Visual Studio, VSCode, SSMS, Postman, Android Studio
 
